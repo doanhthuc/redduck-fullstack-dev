@@ -1,0 +1,3 @@
+safe-hamlet-94464
+
+DATABASE_URL=postgres://ukiodbaobbnvua:39076104d43dbfa331e4a548de6a28016d1f5632e353069a747dbcce5482f2ce@ec2-18-214-238-28.compute-1.amazonaws.com:5432/dff35t2p17u4n0
